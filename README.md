@@ -2,6 +2,8 @@
 
 ![ChatGPT Image Apr 28, 2025, 12_15_40 AM](https://github.com/user-attachments/assets/d3035aab-ad72-45cd-b84f-3b0a6d0a9541)
 
+Cloned project for tinkering. 
+
 As the name suggests, **xPong** is all about Pong — but with a twist: there’s LLM-based commentary generation integrated into the game.    
 
 I’ve wanted to do this for the longest time — in fact, back in my undergrad days, 
